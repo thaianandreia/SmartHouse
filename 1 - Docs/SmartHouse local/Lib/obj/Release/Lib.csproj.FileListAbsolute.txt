@@ -1,0 +1,20 @@
+C:\SmartHouse\Lib\bin\Release\Lib.dll.config
+C:\SmartHouse\Lib\bin\Release\Lib.dll
+C:\SmartHouse\Lib\bin\Release\Lib.pdb
+C:\SmartHouse\Lib\bin\Release\EntityFramework.dll
+C:\SmartHouse\Lib\bin\Release\EntityFramework.SqlServer.dll
+C:\SmartHouse\Lib\bin\Release\EntityFramework.xml
+C:\SmartHouse\Lib\bin\Release\EntityFramework.SqlServer.xml
+C:\SmartHouse\Lib\obj\Release\Lib.csprojResolveAssemblyReference.cache
+C:\SmartHouse\Lib\obj\Release\Lib.dll
+C:\SmartHouse\Lib\obj\Release\Lib.pdb
+C:\Users\SmartHouse.Thaian-PC\Desktop\SmartHouse copia\Lib\bin\Release\Lib.dll.config
+C:\Users\SmartHouse.Thaian-PC\Desktop\SmartHouse copia\Lib\bin\Release\Lib.dll
+C:\Users\SmartHouse.Thaian-PC\Desktop\SmartHouse copia\Lib\bin\Release\Lib.pdb
+C:\Users\SmartHouse.Thaian-PC\Desktop\SmartHouse copia\Lib\bin\Release\EntityFramework.dll
+C:\Users\SmartHouse.Thaian-PC\Desktop\SmartHouse copia\Lib\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\SmartHouse.Thaian-PC\Desktop\SmartHouse copia\Lib\bin\Release\EntityFramework.xml
+C:\Users\SmartHouse.Thaian-PC\Desktop\SmartHouse copia\Lib\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\SmartHouse.Thaian-PC\Desktop\SmartHouse copia\Lib\obj\Release\Lib.csprojResolveAssemblyReference.cache
+C:\Users\SmartHouse.Thaian-PC\Desktop\SmartHouse copia\Lib\obj\Release\Lib.dll
+C:\Users\SmartHouse.Thaian-PC\Desktop\SmartHouse copia\Lib\obj\Release\Lib.pdb

@@ -1,0 +1,9 @@
+C:\Users\SmartHouse.Thaian-PC\Dropbox\Projeto SM\Smarthouse\Lib\bin\Debug\Lib.dll.config
+C:\Users\SmartHouse.Thaian-PC\Dropbox\Projeto SM\Smarthouse\Lib\bin\Debug\Lib.dll
+C:\Users\SmartHouse.Thaian-PC\Dropbox\Projeto SM\Smarthouse\Lib\bin\Debug\Lib.pdb
+C:\Users\SmartHouse.Thaian-PC\Dropbox\Projeto SM\Smarthouse\Lib\bin\Debug\EntityFramework.dll
+C:\Users\SmartHouse.Thaian-PC\Dropbox\Projeto SM\Smarthouse\Lib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SmartHouse.Thaian-PC\Dropbox\Projeto SM\Smarthouse\Lib\bin\Debug\EntityFramework.xml
+C:\Users\SmartHouse.Thaian-PC\Dropbox\Projeto SM\Smarthouse\Lib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SmartHouse.Thaian-PC\Dropbox\Projeto SM\Smarthouse\Lib\obj\Debug\Lib.dll
+C:\Users\SmartHouse.Thaian-PC\Dropbox\Projeto SM\Smarthouse\Lib\obj\Debug\Lib.pdb

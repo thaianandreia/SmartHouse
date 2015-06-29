@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9F783BC5-43FF-41BC-B5D1-F8E06E70EE53}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Lib</RootNamespace>
+    <AssemblyName>Lib</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ele\EnergiaBLL.cs" />
+    <Compile Include="ele\EnergiaDAL.cs" />
+    <Compile Include="ele\EnergiaVO.cs" />
+    <Compile Include="ele\RelesBLL.cs" />
+    <Compile Include="ele\RelesDAL.cs" />
+    <Compile Include="ele\RelesVO.cs" />
+    <Compile Include="ele\TipoEnergiaBLL.cs" />
+    <Compile Include="ele\TipoEnergiaDAL.cs" />
+    <Compile Include="ele\TipoEnergiaEN.cs" />
+    <Compile Include="ele\TipoEnergiaVO.cs" />
+    <Compile Include="hid\ValvulaBLL.cs" />
+    <Compile Include="hid\ValvulaDAL.cs" />
+    <Compile Include="hid\ValvulaVO.cs" />
+    <Compile Include="hid\VazamentoBLL.cs" />
+    <Compile Include="hid\VazamentoDAL.cs" />
+    <Compile Include="hid\VazamentoVO.cs" />
+    <Compile Include="hid\HidrometroBLL.cs" />
+    <Compile Include="hid\HidrometroDAL.cs" />
+    <Compile Include="hid\HidrometroVO.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="seg\PresencaBLL.cs" />
+    <Compile Include="seg\DetectorIncendioBLL.cs" />
+    <Compile Include="seg\UmidadeBLL.cs" />
+    <Compile Include="seg\TemperaturaBLL.cs" />
+    <Compile Include="seg\PresencaDAL.cs" />
+    <Compile Include="seg\DetectorIncendioDAL.cs" />
+    <Compile Include="seg\UmidadeDAL.cs" />
+    <Compile Include="seg\TemperaturaDAL.cs" />
+    <Compile Include="seg\PresencaVO.cs" />
+    <Compile Include="seg\DetectorIncendioVO.cs" />
+    <Compile Include="seg\UmidadeVO.cs" />
+    <Compile Include="seg\TemperaturaVO.cs" />
+    <Compile Include="seg\ComodoBLL.cs" />
+    <Compile Include="seg\ComodoDAL.cs" />
+    <Compile Include="seg\ComodoVO.cs" />
+    <Compile Include="sis\ComponenteBLL.cs" />
+    <Compile Include="sis\ComponenteDAL.cs" />
+    <Compile Include="sis\ComponenteVO.cs" />
+    <Compile Include="sis\TextosSistemaBLL.cs" />
+    <Compile Include="sis\TextosSistemaDAL.cs" />
+    <Compile Include="sis\TextosSistemaEN.cs" />
+    <Compile Include="sis\TextosSistemaVO.cs" />
+    <Compile Include="Util.cs" />
+    <Compile Include="SmartHouseBLL.cs" />
+    <Compile Include="SmartHouseDAL.cs" />
+    <Compile Include="SmartHouseVO.cs" />
+    <Compile Include="Teste\TesteBLL.cs" />
+    <Compile Include="Teste\TesteDAL.cs" />
+    <Compile Include="Teste\TesteVO.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,38 @@
+C:\SmartHouse\Lib\bin\Debug\Lib.dll.config
+C:\SmartHouse\Lib\bin\Debug\Lib.dll
+C:\SmartHouse\Lib\bin\Debug\Lib.pdb
+C:\SmartHouse\Lib\bin\Debug\EntityFramework.dll
+C:\SmartHouse\Lib\bin\Debug\EntityFramework.SqlServer.dll
+C:\SmartHouse\Lib\bin\Debug\EntityFramework.xml
+C:\SmartHouse\Lib\bin\Debug\EntityFramework.SqlServer.xml
+C:\SmartHouse\Lib\obj\Debug\Lib.dll
+C:\SmartHouse\Lib\obj\Debug\Lib.pdb
+C:\Users\SmartHouse.Thaian-PC\Desktop\SmartHouse copia\Lib\bin\Debug\Lib.dll.config
+C:\Users\SmartHouse.Thaian-PC\Desktop\SmartHouse copia\Lib\bin\Debug\Lib.dll
+C:\Users\SmartHouse.Thaian-PC\Desktop\SmartHouse copia\Lib\bin\Debug\Lib.pdb
+C:\Users\SmartHouse.Thaian-PC\Desktop\SmartHouse copia\Lib\bin\Debug\EntityFramework.dll
+C:\Users\SmartHouse.Thaian-PC\Desktop\SmartHouse copia\Lib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SmartHouse.Thaian-PC\Desktop\SmartHouse copia\Lib\bin\Debug\EntityFramework.xml
+C:\Users\SmartHouse.Thaian-PC\Desktop\SmartHouse copia\Lib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SmartHouse.Thaian-PC\Desktop\SmartHouse copia\Lib\obj\Debug\Lib.csprojResolveAssemblyReference.cache
+C:\Users\SmartHouse.Thaian-PC\Desktop\SmartHouse copia\Lib\obj\Debug\Lib.dll
+C:\Users\SmartHouse.Thaian-PC\Desktop\SmartHouse copia\Lib\obj\Debug\Lib.pdb
+C:\Users\Felipe\Dropbox\Projeto SM\SmartHouse Thaian\Lib\bin\Debug\Lib.dll.config
+C:\Users\Felipe\Dropbox\Projeto SM\SmartHouse Thaian\Lib\bin\Debug\Lib.dll
+C:\Users\Felipe\Dropbox\Projeto SM\SmartHouse Thaian\Lib\bin\Debug\Lib.pdb
+C:\Users\Felipe\Dropbox\Projeto SM\SmartHouse Thaian\Lib\bin\Debug\EntityFramework.dll
+C:\Users\Felipe\Dropbox\Projeto SM\SmartHouse Thaian\Lib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Felipe\Dropbox\Projeto SM\SmartHouse Thaian\Lib\bin\Debug\EntityFramework.xml
+C:\Users\Felipe\Dropbox\Projeto SM\SmartHouse Thaian\Lib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Felipe\Dropbox\Projeto SM\SmartHouse Thaian\Lib\obj\Debug\Lib.dll
+C:\Users\Felipe\Dropbox\Projeto SM\SmartHouse Thaian\Lib\obj\Debug\Lib.pdb
+C:\Users\SmartHouse.Thaian-PC\Dropbox\Projeto SM\SmartHouse Thaian\Lib\bin\Debug\Lib.dll.config
+C:\Users\SmartHouse.Thaian-PC\Dropbox\Projeto SM\SmartHouse Thaian\Lib\bin\Debug\Lib.dll
+C:\Users\SmartHouse.Thaian-PC\Dropbox\Projeto SM\SmartHouse Thaian\Lib\bin\Debug\Lib.pdb
+C:\Users\SmartHouse.Thaian-PC\Dropbox\Projeto SM\SmartHouse Thaian\Lib\bin\Debug\EntityFramework.dll
+C:\Users\SmartHouse.Thaian-PC\Dropbox\Projeto SM\SmartHouse Thaian\Lib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SmartHouse.Thaian-PC\Dropbox\Projeto SM\SmartHouse Thaian\Lib\bin\Debug\EntityFramework.xml
+C:\Users\SmartHouse.Thaian-PC\Dropbox\Projeto SM\SmartHouse Thaian\Lib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SmartHouse.Thaian-PC\Dropbox\Projeto SM\SmartHouse Thaian\Lib\obj\Debug\Lib.dll
+C:\Users\SmartHouse.Thaian-PC\Dropbox\Projeto SM\SmartHouse Thaian\Lib\obj\Debug\Lib.pdb
+C:\Users\SmartHouse.Thaian-PC\Dropbox\Projeto SM\SmartHouse Thaian\Lib\obj\Debug\Lib.csprojResolveAssemblyReference.cache
